@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MCR">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/Titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mh_medconre"
+        android:textSize="22dp"
+        android:textColor="@color/white"
+        android:background="@color/teal_200"
+        android:layout_marginBottom="25sp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/Creceta"
+        android:layout_width="386dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="20sp"
+        android:foregroundGravity="center"
+        android:text="  amphetamine / dextroamphetamine \n
+    amphetamine / dextroamphetamine XR \n
+    clonidine HCl \n
+    dexmethylphenidate HCl \n
+    dexmethylphenidate HCl ER \n
+    dextroamphetamine \n
+    guanfacine \n
+    methamphetamine \n
+    methylphenidate/ER/ER 24 HR \n
+    modafinil \n
+    azelastine HCl \n
+    azelastine nasal \n
+    budesonide \n
+    clemastine fumarate \n
+    cyproheptadine \n
+    cyproheptadine HCl \n
+    epinastine \n
+    epinephrine (QL) \n
+    flunisolide nasal \n
+    fluticasone nasal \n
+    hydroxyzine \n
+    ipratropium nasal \n
+    montelukast \n
+    olopatadine nasal spray \n
+    triamcinolone \n
+    acetonide nasal"
+        android:textColor="@color/black"
+        android:textSize="14dp" />
+
+
+</RelativeLayout>

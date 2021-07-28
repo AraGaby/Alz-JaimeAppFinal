@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alz-Jaime</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ti_login">Log in</string>
+    <string name="txv_correo">Email: </string>
+    <string name="txv_contrasena">Password: </string>
+    <string name="txv_nombre">First Name: </string>
+    <string name="txv_apellido">Last Name: </string>
+    <string name="txv_Direc">Address: </string>
+    <string name="txv_Tel">Phone number: </string>
+    <string name="txv_edad">Age: </string>
+    <string name="txv_padecimiento">Suffering: </string>
+    <string name="bt_registrarse">New Account</string>
+    <string name="bt_aceptar">Accept</string>
+    <string name="bt_editar">Edit</string>
+    <string name="txv_recuperar">Forget password? click here</string>
+    <string name="menu_home">Home</string>
+    <string name="bnv_cuidadores">Caregivers </string>
+    <string name="bnv_calenda">Calendar</string>
+    <string name="bnv_medicamento">Medicines</string>
+    <string name="mh_usuario">User</string>
+    <string name="mh_medsinre">Medicamento sin receta</string>
+    <string name="mh_medconre">Medicamento con receta</string>
+    <string name="mh_ayuda">Help</string>
+    <string name="ti_termycon">Terms and conditions</string>
+    <string name="ti_contacto">Contact</string>
+    <string name="ti_cerrar">Log out</string>
+    <string name="ti_Alarmas">Alarms</string>
+    <string name="bt_anadir">Add Alarm</string>
+    <string name="txv_alarma">Alarms of the day</string>
+    <string name="ti_configurar">Set Alarma</string>
+    <string name="ti_registromed">Medical Record</string>
+    <string name="txv_diagnostico">Diagnosis</string>
+    <string name="cont_term">We have the utmost respect for your privacy and personal  information and are aware that the success of our services depends on the confidence you have in the way we handle your  information,we would like to assure you of our commitment to maintaining the privacy of such  information. We have taken considerable steps to protect the confidentiality, security and integrity of this information. We recommend that you review the following information carefully</string>
+    <string name="cont_term2">When you use our service you consent to the collection,storage, use,  disclosure and other uses of your personal information as described in this privacy policy.</string>
+    <string name="txv_pregunta1">Are my data secure  it in Alz-Jaime</string>
+    <string name="txv_res1">In Alz-Jaime the security of your data matters a lot to us  that is why we have a privacy policy which you can consult in our app</string>
+    <string name="txv_pregunta2">What information does Alz-Jaime use?</string>
+    <string name="txv_pregunta3">What  if something doesnt work in my app?</string>
+    <string name="txv_pregunta4">How does the app work?</string>
+    <string name="txv_res2"> The information that the Alz-JaimeApp usesto provide you with a better service is learned about the data that you enter from which the  app  is learning.</string>
+    <string name="txv_res3">In Alz-Jaime we have support service, you can contact any of our means of contact and we will help you solve the problem</string>
+    <string name="txv_res4">The application  works by means of an alarm that warns the user when he must take arthat medication, keeping a record of the medicines that the user has  taken</string>
+    <string name="ti_calif">Rate Us</string>
+    <string name="bt_calif">Rate</string>
+    <string name="ti_preguntas">Frequent questions</string>
+    <string name="ti_Persona">Person in charge</string>
+    <string name="ti_recuperar">Recover password</string>
+    <string name="txv_califica">Rate the app</string>
+    <string name="txv_ingresarcod">Enter code</string>
+    <string name="txv_reenviar">Resend code</string>
+    <string name="bt_sendco">Send code</string>
+    <string name="txv_tomar">What time will the medicine be taken?</string>
+    <string name="bt_camhora">Change time</string>
+    <string name="txv_nombmed">Medicine name: </string>
+    <string name="bt_cance">Cancel</string>
+    <string name="bt_env">Send</string>
+    <string name="bt_guardar">Save</string>
+    <string name="txv_nom">Name: </string>
+    <string name="bt_biome">Register with biometric</string>
+    <string name="txv_newpass">New password: </string>
+    <string name="txv_confnp">Confir new password: </string>
+    <string name="bt_borrar">Delete</string>
+    <string name="txv_reg">Your medical history will appear here</string>
+
+
+
+</resources>
